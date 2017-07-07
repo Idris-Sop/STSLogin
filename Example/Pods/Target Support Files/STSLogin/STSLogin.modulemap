@@ -1,0 +1,6 @@
+framework module STSLogin {
+  umbrella header "STSLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

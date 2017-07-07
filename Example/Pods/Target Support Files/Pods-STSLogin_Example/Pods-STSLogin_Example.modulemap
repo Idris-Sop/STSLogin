@@ -1,0 +1,6 @@
+framework module Pods_STSLogin_Example {
+  umbrella header "Pods-STSLogin_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

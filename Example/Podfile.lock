@@ -1,0 +1,16 @@
+PODS:
+  - STSLogin (0.1.0)
+
+DEPENDENCIES:
+  - STSLogin (from `../`)
+
+EXTERNAL SOURCES:
+  STSLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STSLogin: 8fbe45ed55210aeff145cd2cce3a9fe22f98f415
+
+PODFILE CHECKSUM: aea0f0e898f36d1fd81df45fb355fe25910b6a5b
+
+COCOAPODS: 1.2.1

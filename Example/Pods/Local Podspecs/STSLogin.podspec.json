@@ -1,0 +1,22 @@
+{
+  "name": "STSLogin",
+  "version": "0.1.0",
+  "summary": "A short description of STSLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Idris Jovial SOP NWABO/STSLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Idris Jovial SOP NWABO": "idrisjovisop@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Idris Jovial SOP NWABO/STSLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STSLogin/Classes/**/*"
+}
