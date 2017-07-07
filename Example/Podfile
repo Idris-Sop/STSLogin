@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'STSLogin_Example' do
+  pod 'STSLogin', :path => '../'
+
+  target 'STSLogin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
